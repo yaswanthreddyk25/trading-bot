@@ -1,0 +1,8 @@
+pandas
+numpy
+websockets
+httpx
+python-dotenv
+pydantic-settings
+streamlit
+python-binance
